@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puneet Kumar Rajan</h1>
-<h3 align="center">IIT Hyderabad | MTech | Artificial Intelligence | Computer Vision</h3>
+<h3 align="center">IIT Hyderabad | Artificial Intelligence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitospace&label=Profile%20views&color=0e75b6&style=flat" alt="kitospace" /> </p>
 
