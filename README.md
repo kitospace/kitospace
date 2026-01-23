@@ -116,5 +116,4 @@ Indian Institute of Technology Hyderabad (IITH)
 ---
 
 ### 🧩 Fun Fact
-> I break models in research so they don’t break in production 🚗💥🤖
-> And the Profile Picture is not a normal Picture it's an Adversarial Picture.
+> I break models in research so they don’t break in production and the Profile Picture is not a normal Picture it's an Adversarial Dog Picture. 🚗💥🤖
