@@ -1,27 +1,44 @@
 <h1 align="center">Hi 👋, I'm Puneet Kumar Rajan</h1>
 
 <h3 align="center">
-AI Researcher | Computer Vision | Autonomous Systems  
+AI Engineer | Computer Vision | NLP | Autonomous & Intelligent Systems  
 <br/>
 Indian Institute of Technology Hyderabad (IITH)
 </h3>
 
 <p align="center">
-🚀 M.Tech in Artificial Intelligence <br/>
-🔬 Focused on Adversarial Robustness & Autonomous Driving
+🎓 M.Tech (Artificial Intelligence) | IIT Hyderabad <br/>
+💼 Software Engineer @ Optum (UnitedHealth Group) <br/>
+🚀 Working on Applied AI Systems
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🎓 **M.Tech (Artificial Intelligence)** @ **IIT Hyderabad**
-- 🔭 Currently working on **Adversarial Attacks in Autonomous Vehicles**
-- 🧪 Research interests:
+- 🎓 **Completed M.Tech in Artificial Intelligence** from **IIT Hyderabad** (May 2025)
+- 🔬 Master’s research focused on **Adversarial Attacks in Autonomous Vehicles**
+- 💼 Currently working as a **Software Engineer at Optum (UHG)**
+- 🤖 Actively building and deploying AI systems in production, including:
+  - **Natural Language Processing (NLP)**
+  - **Retrieval-Augmented Generation (RAG)**
+  - **AI Agents & Multi-Agent Systems**
+  - **MCP Servers & Agent Tooling**
+- 🧪 Research & engineering interests:
   - Adversarial Machine Learning  
   - Computer Vision for Autonomous Systems  
-  - Robust & Trustworthy Deep Learning  
-  - Object Detection & Perception (YOLO, Faster R-CNN, etc.)
-- 💡 Strong believer in **research → product → real-world impact**
+  - Trustworthy & Robust Deep Learning  
+  - LLM-based Systems, Agents, and Applied AI
+- 💡 Strong believer in **research → engineering → real-world impact**
+
+---
+
+### 💼 Experience
+**Software Engineer — Optum (UnitedHealth Group)**  
+*May 2025 – Present*  
+- Working on **AI-driven healthcare solutions** using modern NLP and LLM stacks  
+- Designing and deploying **RAG pipelines** for enterprise-scale knowledge systems  
+- Building **AI Agents** and **MCP-based services** for orchestration and automation  
+- Bridging research insights with **production-grade AI systems**
 
 ---
 
@@ -55,13 +72,13 @@ Indian Institute of Technology Hyderabad (IITH)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-<!-- ML / CV -->
+<!-- ML / AI -->
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 
-<!-- Data -->
+<!-- Data & Backend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -84,7 +101,6 @@ Indian Institute of Technology Hyderabad (IITH)
 ---
 
 ### 📊 GitHub Analytics
-
 <p align="center">
   <img width="49%"
        src="https://github-readme-stats.vercel.app/api?username=kitospace&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -100,4 +116,4 @@ Indian Institute of Technology Hyderabad (IITH)
 ---
 
 ### 🧩 Fun Fact
-> I break models so that real-world systems don’t break 🚗💥🤖
+> I break models in research so they don’t break in production 🚗💥🤖
