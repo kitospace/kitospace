@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puneet Kumar Rajan</h1>
+
 <h3 align="center">
 AI Researcher | Computer Vision | Autonomous Systems  
 <br/>
@@ -13,14 +14,14 @@ Indian Institute of Technology Hyderabad (IITH)
 ---
 
 ### 🧠 About Me
-- 🎓 **M.Tech (AI)** @ **IIT Hyderabad**
+- 🎓 **M.Tech (Artificial Intelligence)** @ **IIT Hyderabad**
 - 🔭 Currently working on **Adversarial Attacks in Autonomous Vehicles**
 - 🧪 Research interests:
   - Adversarial Machine Learning  
   - Computer Vision for Autonomous Systems  
-  - Robust Deep Learning  
+  - Robust & Trustworthy Deep Learning  
   - Object Detection & Perception (YOLO, Faster R-CNN, etc.)
-- 💡 Strong believer in *research → product → impact*
+- 💡 Strong believer in **research → product → real-world impact**
 
 ---
 
@@ -82,13 +83,18 @@ Indian Institute of Technology Hyderabad (IITH)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kitospace&show_icons=true&theme=tokyonight" />
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=kitospace&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=kitospace&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitospace&theme=tokyonight" />
+  <img width="40%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitospace&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
