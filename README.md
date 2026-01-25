@@ -102,9 +102,9 @@ Indian Institute of Technology Hyderabad (IITH)
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="49%"
+  <img width="50%"
        src="https://github-readme-stats.vercel.app/api?username=kitospace&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%"
+  <img width="50%"
        src="https://github-readme-streak-stats.herokuapp.com/?user=kitospace&theme=tokyonight&hide_border=true" />
 </p>
 
