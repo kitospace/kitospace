@@ -19,7 +19,7 @@ I build **production-grade Applied AI systems** — from **research insights** t
 - 🎓 **M.Tech (Artificial Intelligence), IIT Hyderabad** (May 2025)  
 - 🔬 Research: **Adversarial Attacks in Autonomous & Intelligent Systems**  
 - 💼 **Software Engineer @ Optum (UnitedHealth Group)** — Applied AI for healthcare  
-- 🧠 Interests: **Robust ML**, **Computer Vision**, **Trustworthy AI**, **RAG & LLM Systems**, **Agent orchestration**
+- 🧠 Interests: **Robust ML**, **Computer Vision**, **Trustworthy AI**, **RAG & LLM Systems**, **Agent orchestration**, **Vulnarabilities in AI**
 
 > **Belief:** Research → Engineering → Real-world impact.
 
