@@ -1,7 +1,7 @@
 <h1 align="center">Puneet Kumar Rajan</h1>
 <p align="center">
   <b>AI Engineer</b> · Computer Vision · NLP · RAG · Agents <br/>
-  <sub>IIT Hyderabad (M.Tech AI) · Software Engineer @ Optum (UHG)</sub>
+  <sub>IIT Hyderabad · Software Engineer @ Optum (UHG)</sub>
 </p>
 
 <p align="center">
