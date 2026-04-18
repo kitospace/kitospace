@@ -48,7 +48,7 @@ I build **production-grade Applied AI systems** — from **research insights** t
 **ML/AI:** PyTorch, TensorFlow, OpenCV, scikit-learn  
 **LLM Systems:** RAG, Agents, Evaluation, Tooling (MCP)  
 **Data:** MongoDB, MySQL, Pandas  
-**DevOps/Cloud:** Docker, Kubernetes, Linux, AWS, GCP, Azure
+**DevOps/Cloud:** Docker, Kubernetes, Linux, AWS, GCP, Azure, Xcode
 
 ---
 
