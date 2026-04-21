@@ -21,7 +21,7 @@ I build **production-grade Applied AI systems** — from **research insights** t
 - 💼 **Software Engineer @ Optum (UnitedHealth Group)** — Applied AI for healthcare  
 - 🧠 Interests: **Robust ML**, **Computer Vision**, **Trustworthy AI**, **RAG & LLM Systems**, **Agent orchestration**, **Vulnarabilities in AI**
 
-> **Belief:** Research → Engineering → Real-world impact.
+> **Belief:** Research → Engineering → Real-world impact
 
 ---
 
