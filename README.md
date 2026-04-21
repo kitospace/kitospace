@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:puneetrajan997@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/kitospace">LinkedIn</a> ·
-  <a href="https://www.leetcode.com/kito_space">LeetCode</a> ·
+  <a href="mailto:puneetrajan997@gmail.com">Email</a> 
+  <a href="https://linkedin.com/in/kitospace">LinkedIn</a> 
+  <a href="https://www.leetcode.com/kito_space">LeetCode</a> 
   <a href="https://auth.geeksforgeeks.org/user/puneetraoqm7">GeeksforGeeks</a>
 </p>
 
