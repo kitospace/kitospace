@@ -14,7 +14,7 @@
 ---
 
 ## About
-I build **production-grade Applied AI systems** — from **research insights** to **reliable deployment**.
+I build **production-grade Applied AI systems** — from **research insights** to **reliable deployment**
 
 - 🎓 **M.Tech (Artificial Intelligence), IIT Hyderabad** (May 2025)  
 - 🔬 Research: **Adversarial Attacks in Autonomous & Intelligent Systems**  
