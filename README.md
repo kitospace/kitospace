@@ -50,20 +50,6 @@ I build **production-grade Applied AI systems** — from **research insights** t
 **Data:** MongoDB, MySQL, Pandas  
 **DevOps/Cloud:** Docker, Kubernetes, Linux, AWS, GCP, Azure, Xcode
 
----
-
-## GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kitospace&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kitospace&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitospace&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## Fun fact
 > I break models in research so they don’t break in production.  
 > Also, my profile picture isn’t “just a picture” — it’s an **Adversarial Dog** 🐶⚠️🤖
