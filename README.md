@@ -52,4 +52,4 @@ I build **production-grade Applied AI systems** — from **research insights** t
 
 ## Fun fact
 > I break models in research so they don’t break in production.  
-> Also, my profile picture isn’t “just a picture” — it’s an **Adversarial Dog** 🐶⚠️🤖
+> Also, my profile picture isn’t “just a picture” — it’s an **Adversarial Dog** 🐶
